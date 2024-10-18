@@ -28,6 +28,10 @@ redirect_from:
   **Xuwei Liu**, Wei You, Yapeng Ye, Zhuo Zhang, Jianjun Huang, Xiangyu Zhang  
   _The IEEE/ACM International Conference on Software Engineering (ICSE 2024)_
 
+- [Stochfuzz: Sound and cost-effective fuzzing of stripped binaries by incremental and stochastic rewriting](https://doi.org/10.1145/3533767.3534403)
+  **Xuwei Liu**, Wei You, Zhuo Zhang, Xiangyu Zhang  
+  _Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2022)_
+
 - [StochFuzz: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting](https://www.cs.purdue.edu/homes/zhan3299/res/SP21b.pdf)  
   Zhuo Zhang, Wei You, Guanhong Tao, Yousra Aafer, **Xuwei Liu**, Xiangyu Zhang  
   _2021 IEEE Symposium on Security and Privacy (S&P 2021)_
