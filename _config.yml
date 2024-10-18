@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xuwei Liu"
 title_separator          : "-"
 name                     : &name "Xuwei Liu"
 description              : &description "CS PhD candidate@Purdue"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example:   
   bio              : "CS PhD candidate@Purdue"
   location         : "West Lafayette, IN, 47906"
-  employer         : 
+  employer         : "Purdue University"
   uri              : # URL
   email            : "liu2598@purdue.edu" 
 
