@@ -52,3 +52,6 @@ redirect_from:
 - Reviewer, IEEE Transactions on Wireless Communications
 - Reviewer, Computer Networks
 - Reviewer, PeerJ Computer Science
+
+## Teaching
+- Teaching assistant, CS51000 Software Engineering, spring 2022
