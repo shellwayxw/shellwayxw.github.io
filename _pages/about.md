@@ -36,6 +36,10 @@ redirect_from:
   Zhuo Zhang, Wei You, Guanhong Tao, Yousra Aafer, **Xuwei Liu**, Xiangyu Zhang  
   _2021 IEEE Symposium on Security and Privacy (S&P 2021)_
 
+- [Correlations between deep neural network model coverage criteria and model quality](https://people.cs.rutgers.edu/~jz798/papers/fse20_yan.pdf)  
+  Shenao Yan, Guanhong Tao, **Xuwei Liu**, Juan Zhai, Shiqing Ma, Lei Xu, Xiangyu Zhang  
+  _Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE 2020)_
+  
 - [SLF: Fuzzing without valid seed inputs](https://youwei1988.github.io/papers/ICSE2019.pdf)  
   Wei You, **Xuwei Liu**, Shiqing Ma, David Perry, Xiangyu Zhang, Bin Liang  
   _The IEEE/ACM International Conference on Software Engineering (ICSE 2019)_
