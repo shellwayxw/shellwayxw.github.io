@@ -16,3 +16,12 @@ redirect_from:
 
 - **PhD Software Engineer Intern at Meta**, [AI Metadata]
   - _Bellevue, WA_  &nbsp;&nbsp;&nbsp;&nbsp; _(May 2022 - Aug. 2022, May 2023 - Aug. 2023)_
+
+## Publication
+
+- [ParDiff: Practical Static Differential Analysis of Network Protocol Parsers](#)  
+  Mingwei Zheng, Qingkai Shi, **Xuwei Liu**, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
+  _The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)_  
+  🏆 **ACM SIGPLAN Distinguished Paper Award**
+  
+## Service
