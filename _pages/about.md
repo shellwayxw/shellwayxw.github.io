@@ -24,17 +24,18 @@ redirect_from:
   _The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)_  
  🏆 <span style="color: red;">**ACM SIGPLAN Distinguished Paper Award**</span>
 
-- [FuzzInMem: Fuzzing Programs via In-memory Structures](https://dl.acm.org/doi/pdf/10.1145/3597503.3639172) 
-  **Xuwei Liu**, Wei You, Yapeng Ye, Zhuo Zhang, Jianjun Huang, Xiangyu Zhang 
-  _The IEEE/ACM International Conference on Software Engineering (ICSE 2024)_ 
+- [FuzzInMem: Fuzzing Programs via In-memory Structures](https://dl.acm.org/doi/pdf/10.1145/3597503.3639172)  
+  **Xuwei Liu**, Wei You, Yapeng Ye, Zhuo Zhang, Jianjun Huang, Xiangyu Zhang  
+  _The IEEE/ACM International Conference on Software Engineering (ICSE 2024)_
 
-- [StochFuzz: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting](https://www.cs.purdue.edu/homes/zhan3299/res/SP21b.pdf) 
-  Zhuo Zhang, Wei You, Guanhong Tao, Yousra Aafer, Xuwei Liu, Xiangyu Zhang 
-  _2021 IEEE Symposium on Security and Privacy (S&P 2021)_ 
+- [StochFuzz: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting](https://www.cs.purdue.edu/homes/zhan3299/res/SP21b.pdf)  
+  Zhuo Zhang, Wei You, Guanhong Tao, Yousra Aafer, **Xuwei Liu**, Xiangyu Zhang  
+  _2021 IEEE Symposium on Security and Privacy (S&P 2021)_
 
-- [SLF: Fuzzing without valid seed inputs](https://youwei1988.github.io/papers/ICSE2019.pdf) 
-  Wei You, **Xuwei Liu**, Shiqing Ma, David Perry, Xiangyu Zhang, Bin Liang 
-  _The IEEE/ACM International Conference on Software Engineering (ICSE 2019)_ 
+- [SLF: Fuzzing without valid seed inputs](https://youwei1988.github.io/papers/ICSE2019.pdf)  
+  Wei You, **Xuwei Liu**, Shiqing Ma, David Perry, Xiangyu Zhang, Bin Liang  
+  _The IEEE/ACM International Conference on Software Engineering (ICSE 2019)_
+
    
 
 ## Service
