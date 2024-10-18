@@ -14,7 +14,7 @@ redirect_from:
 
 ## Experience
 
-- **PhD Software Engineer Intern at Meta**, [AI Metadata]
+- **PhD Software Engineer Intern at Meta**  [AI Metadata]
   - _Bellevue, WA_  &nbsp;&nbsp;&nbsp;&nbsp; _(May 2022 - Aug. 2022, May 2023 - Aug. 2023)_
 
 ## Publication
@@ -48,3 +48,7 @@ redirect_from:
    
 
 ## Service
+- Reviewer, IEEE Internet of Things Journal
+- Reviewer, IEEE Transactions on Wireless Communications
+- Reviewer, Computer Networks
+- Reviewer, PeerJ Computer Science
