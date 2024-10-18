@@ -34,7 +34,8 @@ redirect_from:
 
 - [StochFuzz: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting](https://www.cs.purdue.edu/homes/zhan3299/res/SP21b.pdf)  
   Zhuo Zhang, Wei You, Guanhong Tao, Yousra Aafer, **Xuwei Liu**, Xiangyu Zhang  
-  _2021 IEEE Symposium on Security and Privacy (S&P 2021)_
+  _2021 IEEE Symposium on Security and Privacy (S&P 2021)_  
+ 🏆   <span style="color: red;">**CSAW 2021 Best Applied Security Paper Award TOP-10 Finalists**</span>
 
 - [Correlations between deep neural network model coverage criteria and model quality](https://people.cs.rutgers.edu/~jz798/papers/fse20_yan.pdf)  
   Shenao Yan, Guanhong Tao, **Xuwei Liu**, Juan Zhai, Shiqing Ma, Lei Xu, Xiangyu Zhang  
