@@ -28,7 +28,7 @@ redirect_from:
   **Xuwei Liu**, Wei You, Yapeng Ye, Zhuo Zhang, Jianjun Huang, Xiangyu Zhang  
   _The IEEE/ACM International Conference on Software Engineering (ICSE 2024)_
 
-- [Stochfuzz: Sound and cost-effective fuzzing of stripped binaries by incremental and stochastic rewriting](https://doi.org/10.1145/3533767.3534403)  
+- [TensileFuzz: facilitating seed input generation in fuzzing via string constraint solving](https://doi.org/10.1145/3533767.3534403)  
   **Xuwei Liu**, Wei You, Zhuo Zhang, Xiangyu Zhang  
   _Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2022)_
 
