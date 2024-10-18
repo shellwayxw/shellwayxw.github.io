@@ -19,9 +19,9 @@ redirect_from:
 
 ## Publication
 
-- [ParDiff: Practical Static Differential Analysis of Network Protocol Parsers](#)  
+- [ParDiff: Practical Static Differential Analysis of Network Protocol Parsers](https://dl.acm.org/doi/pdf/10.1145/3649854)  
   Mingwei Zheng, Qingkai Shi, **Xuwei Liu**, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
   _The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)_  
-  🏆 **ACM SIGPLAN Distinguished Paper Award**
+ 🏆 <span style="color: red;">**ACM SIGPLAN Distinguished Paper Award**</span>
   
 ## Service
