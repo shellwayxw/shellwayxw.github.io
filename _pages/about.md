@@ -10,7 +10,7 @@ redirect_from:
 
 - I am currently a PhD candidate at [the Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by Prof. [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). Before that, I obtained my bachelor’s degree in Computer Science and Technology from Zhejiang University in 2019.
 
-- My research interests are program analysis and software testing. I specialize in bug detection and have found hundreds of vulnerabilities in various applications, including PDF readers, network protocol libraries, and 5G systems.
+- My research interests are program analysis and software testing. I specialize in bug detection and have found hundreds of vulnerabilities in various applications, including PDF readers, network protocol libraries, and 5G systems. I am also interested in applying LLMs in software engineering tasks.
 
 ## Experience
 
